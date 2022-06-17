@@ -1,9 +1,10 @@
 
 ## Dashboard
+<img src="https://github.com/Mukul-MV/Power-Bi-Projects/blob/main/Sales_insights/Revenue%201.png?raw=true" alt="revenue" width="500"/><img src="https://github.com/Mukul-MV/Power-Bi-Projects/blob/main/Sales_insights/Profit%20MArgin%202.png?raw=true" alt="Profit Margin" width="500"/>
+ 
 
-![Revenue](https://github.com/Mukul-MV/Power-Bi-Projects/blob/main/Sales_insights/Revenue%201.png?raw=true)
 
-![Profit Margin](https://github.com/Mukul-MV/Power-Bi-Projects/blob/main/Sales_insights/Profit%20MArgin%202.png?raw=true)
+
 
 # Sales -Analysis with Power BI dashBoard
 
