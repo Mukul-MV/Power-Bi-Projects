@@ -115,16 +115,16 @@ WHERE YEAR(ORDER_DATE) = 2020
 
 2. Profit Margin Contribution
 ```bash
-  
+  Profit Margin contribution % = DIVIDE([Total Profit Margin],CALCULATE([Total Profit Margin],ALL('sales products'),ALL('sales customers'),ALL('sales markets')))
 ```
 3. Revenue Contribution
 ```bash
-  
+  % Revenue Contribution = DIVIDE([Revenue],calculate([Revenue],ALL('sales customers'),ALL('sales markets'),all('sales products')))
 
 ```
 4. Total Profit Margin % 
 ```bash
-  
+  Profit Margin % = DIVIDE([Total Profit Margin],[Revenue],0)
 
 ```
 
@@ -138,6 +138,6 @@ Power BI report Dashboard [PDF](https://drive.google.com/file/d/1Z3UA-9-1S5L8u62
 
 ## Demo
 
-Insert gif or link to demo
-
-![v](https://drive.google.com/file/d/1Hj3AYdOrLi-AbQoxofMu-oHTMV7W5Oda/view?usp=sharing)
+![v](https://media.giphy.com/media/djfDUy0apiPJAWqSO4/giphy.gif)
+![v2](https://media.giphy.com/media/kf0azyFRuiFdpWDe8d/giphy.gif)
+![v3](https://media.giphy.com/media/Xkpxy1qyMWk1Lc6KfY/giphy.gif)
