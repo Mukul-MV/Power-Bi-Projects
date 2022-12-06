@@ -1,3 +1,8 @@
+## Demo
+
+![v](https://media.giphy.com/media/djfDUy0apiPJAWqSO4/giphy.gif)
+![v2](https://media.giphy.com/media/kf0azyFRuiFdpWDe8d/giphy.gif)
+![v3](https://media.giphy.com/media/Xkpxy1qyMWk1Lc6KfY/giphy.gif)
 
 ## Dashboard
 <img src="https://github.com/Mukul-MV/Power-Bi-Projects/blob/main/Sales_insights/Revenue%201.png?raw=true" alt="revenue" width="500"/><img src="https://github.com/Mukul-MV/Power-Bi-Projects/blob/main/Sales_insights/Profit%20MArgin%202.png?raw=true" alt="Profit Margin" width="500"/>
@@ -136,8 +141,4 @@ Power BI [Dashboard](https://app.powerbi.com/links/DknGjZxZ1o?ctid=e36b8a1b-051b
 
 Power BI report Dashboard [PDF](https://drive.google.com/file/d/1Z3UA-9-1S5L8u62Fn4Fz6zidrXu0wlb0/view?usp=sharing)
 
-## Demo
 
-![v](https://media.giphy.com/media/djfDUy0apiPJAWqSO4/giphy.gif)
-![v2](https://media.giphy.com/media/kf0azyFRuiFdpWDe8d/giphy.gif)
-![v3](https://media.giphy.com/media/Xkpxy1qyMWk1Lc6KfY/giphy.gif)
